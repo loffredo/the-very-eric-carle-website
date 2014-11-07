@@ -16,7 +16,7 @@ header {
 }
 
 header div {
-	display: inline-block;
+	float: left;
 	width: auto;
 	margin-left: 8%;
 	vertical-align: top;
